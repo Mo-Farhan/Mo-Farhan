@@ -11,5 +11,5 @@ This displays a result tab that shows the user all the information such as total
 
 ![alt txt](https://github.com/Mo-Farhan/Mo-Farhan/blob/main/image2.PNG)
 
-### 2. MySQL Database Project
+### 2. [MySQL Database Project](https://github.com/Mo-Farhan/MySQL_Database)
 ![alt txt](https://github.com/Mo-Farhan/Mo-Farhan/blob/main/Screen%20Shot%202022-03-29%20at%201.30.57%20PM.png)
