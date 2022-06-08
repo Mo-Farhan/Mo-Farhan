@@ -1,5 +1,5 @@
 ## Hi there, this is Farhan! 👋
-I'm an aspiring Machine Learning Engineer with interests in AI and AR/VR domains. Currently, I'm gaining academic experience in software development and machine learning projects. I'm eager and ethusiastic to learn new programming languages, machine learning models and advancements in gaming domain. 
+I'm an aspiring Software/Machine Learning Engineer with interests in AI and AR/VR domains. Currently, I'm gaining academic experience in software development and machine learning projects. I'm eager and ethusiastic to learn new programming languages, machine learning models and advancements in gaming domain. 
 
 ## Projects
 ### 1. [Petrol Station Management](https://github.com/Mo-Farhan/Petrol_Station_Management)
